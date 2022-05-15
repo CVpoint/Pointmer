@@ -14,6 +14,13 @@
 
  - download ModelNetyo from <a href ="https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip"  tittle="超链接title">ModelNet40</a> and save in dataset
 
+
+~~~
+pip install pointnet2_ops_lib/.
+
+The code is from https://github.com/erikwijmans/Pointnet2_PyTorch
+
+
 ## Classification
 
 make sure the program in your path correctly and run：
